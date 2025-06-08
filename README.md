@@ -1,3 +1,3 @@
-# Codex Python Course Preview
+# Codex Python for Finance Analysts Preview
 
-This repository now displays a preview of an upcoming Python course. Open `index.html` in your browser to see a table of contents covering topics from basic syntax to machine learning.
+This repository displays a preview of an upcoming Python course focused on finance applications. Open `index.html` in your browser to see a finance-tailored table of contents.
