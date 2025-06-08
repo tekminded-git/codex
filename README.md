@@ -1,3 +1,3 @@
-# Codex Coming Soon Page
+# Codex Python Course Preview
 
-This repository contains a simple HTML page that displays a "Content Coming Soon" message. Open `index.html` in your browser to view it.
+This repository now displays a preview of an upcoming Python course. Open `index.html` in your browser to see a table of contents covering topics from basic syntax to machine learning.
